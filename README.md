@@ -36,7 +36,7 @@
 | TIDY | SummerOlympicsFunding.csv | fff |
 | TIDY | TourTidyverse_1.R | fff |
 | TIDY | uni_results.csv | fff |
-| README.md | This document |
+| --- | README.md | This document |
 
 
 ---
