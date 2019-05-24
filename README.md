@@ -28,7 +28,9 @@
 | UCD | cetml1659on.dat ? | ccc |
 | UCD | city_pop.txt ? | ccc |
 | UCD | london_inner_pois.zip | ccc |
-| IDA | d | ddd |
+| IDA | IDA_1-Getting-started.ipynb | ddd |
+| IDA | IDA_2-Intro-to-Pandas.ipynb | ddd |
+| IDA | IDA_3-my-notation-question.ipynb | ddd |
 | ADA | ADA_1-Fitting.ipynb | eee |
 | ADA | ADA_2-Correlation.ipynb | eee |
 | ADA | ADA_3-Clustering.ipynb | eee |
