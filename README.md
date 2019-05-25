@@ -19,25 +19,25 @@
 
 | ref | Directory or file (in root) | Explanation |
 | --- | --- | --- |
-| OD | a | aaa |
-| IP | b | bbb |
-| UCD | 2018-1-metropolitan-street.zip | ccc |
-| UCD | 2018-2-metropolitan-street.zip | ccc |
-| UCD | 2018-metropolitan-stop-and-search.zip | ccc |
-| UCD | boundaries.zip | ccc |
-| UCD | cetml1659on.dat ? | ccc |
-| UCD | city_pop.txt ? | ccc |
-| UCD | london_inner_pois.zip | ccc |
-| IDA | IDA_1-Getting-started.ipynb | ddd |
-| IDA | IDA_2-Intro-to-Pandas.ipynb | ddd |
-| IDA | IDA_3-my-notation-question.ipynb | ddd |
-| ADA | ADA_1-Fitting.ipynb | eee |
-| ADA | ADA_2-Correlation.ipynb | eee |
-| ADA | ADA_3-Clustering.ipynb | eee |
-| TIDY | A Tour of the Tidyverse.pptx | fff |
-| TIDY | SummerOlympicsFunding.csv | fff |
-| TIDY | TourTidyverse_1.R | fff |
-| TIDY | uni_results.csv | fff |
+| OD | --- |  |
+| IP | --- |  |
+| UCD | 2018-1-metropolitan-street.zip |  |
+| UCD | 2018-2-metropolitan-street.zip |  |
+| UCD | 2018-metropolitan-stop-and-search.zip |  |
+| UCD | boundaries.zip |  |
+| UCD ? | cetml1659on.dat |  |
+| UCD ? | city_pop.txt |  |
+| UCD | london_inner_pois.zip |  |
+| IDA | IDA_1-Getting-started.ipynb |  |
+| IDA | IDA_2-Intro-to-Pandas.ipynb |  |
+| IDA | IDA_3-my-notation-question.ipynb |  |
+| ADA | ADA_1-Fitting.ipynb |  |
+| ADA | ADA_2-Correlation.ipynb |  |
+| ADA | ADA_3-Clustering.ipynb |  |
+| TIDY | A Tour of the Tidyverse.pptx |  |
+| TIDY | SummerOlympicsFunding.csv |  |
+| TIDY | TourTidyverse_1.R |  |
+| TIDY | uni_results.csv |  |
 | --- | README.md | This document |
 
 
