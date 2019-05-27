@@ -45,12 +45,20 @@
 
 ### OD :: Asking & answering questions with Open Data
 
+[https://query.wikidata.org/](https://query.wikidata.org/)
+
+* [Query1](https://query.wikidata.org/#%23defaultView%3AMap%0ASELECT%20%3Fperson%20%3FpersonLabel%20%3Fcoordinates%20%3Fimage%20WHERE%20%7B%0A%3Fperson%20wdt%3AP69%20wd%3AQ459506%20.%20%23%20person%20educated%20at%20UoBristol%0A%3Fperson%20wdt%3AP106%20wd%3AQ33999%20.%20%23%20person%20is%20an%20actor%0AOPTIONAL%20%7B%3Fperson%20wdt%3AP18%20%3Fimage%20%7D%20.%0A%3Fperson%20wdt%3AP19%20%3Fbirthplace%20.%0A%3Fbirthplace%20wdt%3AP625%20%3Fcoordinates%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D) : 
+* [Query2](https://query.wikidata.org/#%23defaultView%3AMap%0ASELECT%20%3Fperson%20%3FpersonLabel%20%3Fcoords%20%3Fimage%20WHERE%20%7B%0A%3Fperson%20wdt%3AP166%20wd%3AQ37922%20%20.%0A%3Fperson%20wdt%3AP19%20%3Fbirthplace%20%20.%0A%3Fbirthplace%20wdt%3AP625%20%3Fcoords%20%20.%0AOPTIONAL%20%7B%3Fperson%20wdt%3AP18%20%3Fimage%7D%20%20.%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D) :
+* [Query3](https://query.wikidata.org/#SELECT%20%3Forg%20%3ForgLabel%20%3Flink%20WHERE%20%7B%0A%3Forg%20wdt%3AP5305%20%3Flink%20%20.%20%23%20has%20SPARQL_endpoint%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20%3ForgLabel) :
+
 
 ### IP :: Intermediate Python
 
 
 ### UCD :: Explore UK Crime Data with Pandas & GeoPandas
 [`pandas`; `geopandas`]
+
+* '20190521_JGI_notebook' is not linked (at the moment), to avoid sharing the 'project token' with readers
 
 
 ### IDA :: Introduction to data analysis in Python
