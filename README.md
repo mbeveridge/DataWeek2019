@@ -1,16 +1,16 @@
-# Data Week 2019
-###### University of Bristol
+# [Data Week 2019](http://www.bristol.ac.uk/golding/get-involved/data-week-2019/)
+###### University of Bristol :: Jean Golding Institute
 
 
 | Date | ref | Session | Language | Course |
 | --- | --- | --- | --- | --- |
-| 20/5/19 | OD | [Asking & answering questions with Open Data](https://www.eventbrite.co.uk/e/asking-and-answering-questions-with-open-data-tickets-57979649693) | SPARQL | ??? |
-| 21/5/19 | IP | [Intermediate Python](https://www.eventbrite.co.uk/e/intermediate-python-tickets-56975527336) | Python | [link](http://chryswoods.com/intermediate_python/README.html) |
-| 21/5/19 | UCD | [Explore UK Crime Data with Pandas & GeoPandas](https://www.eventbrite.co.uk/e/explore-uk-crime-data-with-pandas-and-geopandas-tickets-56991346652) [IBM] | Python | [link](https://github.com/IBMDeveloperUK/geopandas-workshop) |
-| 22/5/19 | IDA | [Introduction to data analysis in Python](https://www.eventbrite.co.uk/e/introduction-to-data-analysis-in-python-tickets-57387124434#) | Python | [link](https://nbviewer.jupyter.org/github/milliams/data_analysis_python/blob/master/Introduction.ipynb) |
+| 20/5/19 | OD | [Asking & answering questions with Open Data](http://www.bristol.ac.uk/golding/events/2019/asking-and-answering-questions-with-open-data.html) | SPARQL | ??? |
+| 21/5/19 | IP | [Intermediate Python](http://www.bristol.ac.uk/golding/events/2019/intermediate-python.html) | Python | [link](http://chryswoods.com/intermediate_python/README.html) |
+| 21/5/19 | UCD | [Explore UK Crime Data with Pandas & GeoPandas](http://www.bristol.ac.uk/golding/events/2019/explore-uk-crime-data-with-pandas-and-geopandas.html) [IBM] | Python | [link](https://github.com/IBMDeveloperUK/geopandas-workshop) |
+| 22/5/19 | IDA | [Introduction to data analysis in Python](http://www.bristol.ac.uk/golding/events/2019/introduction-to-data-analysis-in-python.html) | Python | [link](https://nbviewer.jupyter.org/github/milliams/data_analysis_python/blob/master/Introduction.ipynb) |
 | *22/5/19* | --- | *A Walk through the Python Visualization Forest -- CANCELLED* | *Python* | --- |
-| 23/5/19 | ADA | [Applied data analysis in Python](https://www.eventbrite.co.uk/e/applied-data-analysis-in-python-tickets-57394621859) | Python | [link](https://milliams.gitlab.io/applied_data_analysis/) |
-| 24/5/19 | TIDY | [Tour of the Tidyverse](https://www.eventbrite.co.uk/e/tour-of-the-tidyverse-tickets-58253135697#) [MangoSolutions] | R | PowerPoint |
+| 23/5/19 | ADA | [Applied data analysis in Python](http://www.bristol.ac.uk/golding/events/2019/applied-data-analysis-in-python.html) | Python | [link](https://milliams.gitlab.io/applied_data_analysis/) |
+| 24/5/19 | TIDY | [Tour of the Tidyverse](http://www.bristol.ac.uk/golding/events/2019/tour-of-the-tidyverse-.html) [MangoSolutions] | R | PowerPoint |
 
 
 
