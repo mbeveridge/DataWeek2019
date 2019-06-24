@@ -36,7 +36,9 @@
 | ADA | ADA_3-Clustering.ipynb |  |
 | TIDY | A Tour of the Tidyverse.pptx |  |
 | TIDY | SummerOlympicsFunding.csv |  |
+| TIDY | tidyverse_workshop.R | received after |
 | TIDY | TourTidyverse_1.R |  |
+| TIDY | tourtidyverse_exercises.R | received after |
 | TIDY | uni_results.csv |  |
 | --- | README.md | This document |
 
@@ -50,6 +52,8 @@
 * [Query1](https://query.wikidata.org/#%23defaultView%3AMap%0ASELECT%20%3Fperson%20%3FpersonLabel%20%3Fcoordinates%20%3Fimage%20WHERE%20%7B%0A%3Fperson%20wdt%3AP69%20wd%3AQ459506%20.%20%23%20person%20educated%20at%20UoBristol%0A%3Fperson%20wdt%3AP106%20wd%3AQ33999%20.%20%23%20person%20is%20an%20actor%0AOPTIONAL%20%7B%3Fperson%20wdt%3AP18%20%3Fimage%20%7D%20.%0A%3Fperson%20wdt%3AP19%20%3Fbirthplace%20.%0A%3Fbirthplace%20wdt%3AP625%20%3Fcoordinates%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D) : 
 * [Query2](https://query.wikidata.org/#%23defaultView%3AMap%0ASELECT%20%3Fperson%20%3FpersonLabel%20%3Fcoords%20%3Fimage%20WHERE%20%7B%0A%3Fperson%20wdt%3AP166%20wd%3AQ37922%20%20.%0A%3Fperson%20wdt%3AP19%20%3Fbirthplace%20%20.%0A%3Fbirthplace%20wdt%3AP625%20%3Fcoords%20%20.%0AOPTIONAL%20%7B%3Fperson%20wdt%3AP18%20%3Fimage%7D%20%20.%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D) :
 * [Query3](https://query.wikidata.org/#SELECT%20%3Forg%20%3ForgLabel%20%3Flink%20WHERE%20%7B%0A%3Forg%20wdt%3AP5305%20%3Flink%20%20.%20%23%20has%20SPARQL_endpoint%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20%3ForgLabel) :
+
+[Found a [link](https://medium.com/@sahansera/dockerizing-sparql-and-pandas-with-python-e20ffb1b617d) for using SPARQL with Pandas. BUT Anaconda doesn't contain `SPARQLWrapper`, never mind `sparql-dataframe`]
 
 
 ### IP :: Intermediate Python
